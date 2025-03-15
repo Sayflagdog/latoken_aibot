@@ -1,0 +1,4 @@
+все токены защищены и хранятся в .env 
+
+OPENAI_API_KEY и TELEGRAM_TOKEN 
+
